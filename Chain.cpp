@@ -1,6 +1,6 @@
 #include "Chain.h"
 
-using namespace std;
+using namespace std;//IMPORT THE STANDARD TEMPLATE LIBRARY!!!!
 
 //chain constructor. Used to create a chain of length zero. Takes in
 //no parameters or user inputs. Does not return or output anything. 
